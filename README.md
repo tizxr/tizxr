@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faiqff
 - 👀 I’m interested in making malwares/bots/intressting stuff
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: Add tizxr#3313
+- 📫 How to reach me: Add tizxr#3333
 
 <!---
 faiqff/faiqff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
