@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @faiqff
-- 👀 I’m interested in making malwares/bots/intressting stuff
+- 👋 Hi, I’m @tizxr
+- 👀 I’m interested in making malwares/bots/intressting stuff. Note: I do not take responsibility for whatever you do with my stuff, i code for fun. Some of my stuff is only for educational purposes. So please keep it for educational purposes and do NOT abuse it!
 - 🌱 I’m currently learning Python
+- 🔥Next Targeted Language Is Probarly Javascript
 - 📫 How to reach me: Add tizxr#3333
 
 <!---
